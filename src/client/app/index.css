@@ -1,0 +1,22 @@
+table {
+  width: 80% !important;
+  margin: auto !important;
+}
+
+td {
+  width: 50%;
+}
+
+h1, h3 {
+  text-align: center
+}
+
+h1 {
+  padding-top: 3% !important;
+}
+
+input  {
+  border-radius: 6px;
+  text-align: center;
+  padding: 5px;
+}
